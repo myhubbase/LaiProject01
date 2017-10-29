@@ -1,0 +1,2 @@
+1 . http://blog.csdn.net/codectq/article/details/17543657 
+ USB SCSI 的讲述，USB存储卡的原理，。 关于USB bulk设备中的CBW和CSW
